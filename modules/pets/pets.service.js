@@ -24,16 +24,6 @@ module.exports = {
     return newPets;
   },
 
-  /*
-  getDog() {
-    return pets.dogs.show();
-  },
-
-  getCat() {
-    return pets.cats.show();
-  },
-  */
-
   dequeue(type) {
     let dequeuePet;
     // Remove a pet from the queue.

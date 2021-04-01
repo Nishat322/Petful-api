@@ -21,6 +21,7 @@ peopleRouter
     res.status(201).json(person)
   })
   .delete((req,res) => {
+    // Delete a person from the queue
     People.dequeue()
     const people = People.get()
     return res.status(201).json(people)
