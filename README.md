@@ -4,8 +4,6 @@ Live application: [https://petful-client-lyart.vercel.app/](https://petful-clien
 
 Client Repo: [https://github.com/Nishat322/Petful-client](https://github.com/Nishat322/Petful-client) <br/>
 
-Server: [https://apricot-cake-94060.herokuapp.com/api](https://apricot-cake-94060.herokuapp.com/api)
-
 ## API Documentation
 
 ### Petful Endpoints
