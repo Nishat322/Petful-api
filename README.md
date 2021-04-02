@@ -18,7 +18,7 @@ Client Repo: [https://github.com/Nishat322/Petful-client](https://github.com/Nis
     DELETE: Delete the first animal in both queues
 
 #### /api/cats
-    GET: Return the first cat in cat queue
+    GET: Return the first cat in cat queue 
     DELETE: Delete the first cat in the queue
 
 #### /api/dogs
