@@ -2,7 +2,7 @@
 
 Live application: [https://petful-client-lyart.vercel.app/](https://petful-client-lyart.vercel.app/)<br/>
 
-Live Repo: [https://github.com/Nishat322/Petful-client](https://github.com/Nishat322/Petful-client) <br/>
+Client Repo: [https://github.com/Nishat322/Petful-client](https://github.com/Nishat322/Petful-client) <br/>
 
 Server: [https://apricot-cake-94060.herokuapp.com/api](https://apricot-cake-94060.herokuapp.com/api)
 
@@ -16,8 +16,8 @@ Server: [https://apricot-cake-94060.herokuapp.com/api](https://apricot-cake-9406
     DELETE: Delete person in at the front of the queue.
     
 #### /api/pets  
-    GET: Return all pets in queue including cats and dogs.
-    DELETE: Delete the first animal in both of the dog queue and cat queue.
+    GET: Return all pets in queue
+    DELETE: Delete the first animal in both queues
 
 #### /api/pets 
     GET /api/cat: Return the first cat in cat queue.
