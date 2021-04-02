@@ -6,7 +6,7 @@ Client Repo: [https://github.com/Nishat322/Petful-client](https://github.com/Nis
 
 ## API Documentation
 
-### Petful Endpoints
+### Petful Endpoints 
 
 #### /api/people
     GET: Return an array of people waiting in the queue to adopt pet
