@@ -23,7 +23,7 @@ Client Repo: [https://github.com/Nishat322/Petful-client](https://github.com/Nis
 
 #### /api/dogs
     GET: Return the first dog in dog queue
-    DELETE: Delete the first dog in the queue
+    DELETE: Delete the first dog in the queue 
 
 
 ## Tech Stack
