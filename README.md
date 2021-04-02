@@ -11,17 +11,21 @@ Server: [https://apricot-cake-94060.herokuapp.com/api](https://apricot-cake-9406
 ### Petful Endpoints
 
 #### /api/people
-    GET: Return an array of people waiting in the queue to adopt pet.
-    POST: Add person to the end of the queue.
-    DELETE: Delete person in at the front of the queue.
+    GET: Return an array of people waiting in the queue to adopt pet
+    POST: Add person to the end of the queue
+    DELETE: Delete person in at the front of the queue
     
 #### /api/pets  
     GET: Return all pets in queue
     DELETE: Delete the first animal in both queues
 
-#### /api/pets 
-    GET /api/cat: Return the first cat in cat queue.
-    GET /api/dog: Return the first dog in dog queue.
+#### /api/cats
+    GET: Return the first cat in cat queue
+    DELETE: Delete the first cat in the queue
+
+#### /api/dogs
+    GET: Return the first dog in dog queue
+    DELETE: Delete the first dog in the queue
 
 
 ## Tech Stack
